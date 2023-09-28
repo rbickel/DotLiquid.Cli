@@ -1,0 +1,8 @@
+{
+  "content": {
+    "firstName":"John",
+    "lastname":"Snow",
+    "phone":"1234567890",
+    "devices":"laptop, pc, phone"
+  }
+}
